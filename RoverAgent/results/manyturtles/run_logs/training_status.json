@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    },
+    "Turtle": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\manyturtles\\Turtle\\Turtle-0.onnx",
+                "reward": null,
+                "creation_time": 1743690338.0449975,
+                "auxillary_file_paths": [
+                    "results\\manyturtles\\Turtle\\Turtle-0.pt"
+                ]
+            },
+            {
+                "steps": 96075,
+                "file_path": "results\\manyturtles\\Turtle\\Turtle-96075.onnx",
+                "reward": 0.7160333339124918,
+                "creation_time": 1743690956.4022272,
+                "auxillary_file_paths": [
+                    "results\\manyturtles\\Turtle\\Turtle-96075.pt"
+                ]
+            },
+            {
+                "steps": 499966,
+                "file_path": "results\\manyturtles\\Turtle\\Turtle-499966.onnx",
+                "reward": 0.6104071283979076,
+                "creation_time": 1743691590.723073,
+                "auxillary_file_paths": [
+                    "results\\manyturtles\\Turtle\\Turtle-499966.pt"
+                ]
+            },
+            {
+                "steps": 500030,
+                "file_path": "results\\manyturtles\\Turtle\\Turtle-500030.onnx",
+                "reward": 0.6104071283979076,
+                "creation_time": 1743691590.7869492,
+                "auxillary_file_paths": [
+                    "results\\manyturtles\\Turtle\\Turtle-500030.pt"
+                ]
+            },
+            {
+                "steps": 500030,
+                "file_path": "results\\manyturtles\\Turtle\\Turtle-500030.onnx",
+                "reward": null,
+                "creation_time": 1743705896.412367,
+                "auxillary_file_paths": [
+                    "results\\manyturtles\\Turtle\\Turtle-500030.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500030,
+            "file_path": "results\\manyturtles\\Turtle.onnx",
+            "reward": null,
+            "creation_time": 1743705896.412367,
+            "auxillary_file_paths": [
+                "results\\manyturtles\\Turtle\\Turtle-500030.pt"
+            ]
+        }
+    }
+}
