@@ -1,0 +1,65 @@
+{
+    "Turtle": {
+        "checkpoints": [
+            {
+                "steps": 193108,
+                "file_path": "results\\rover-long-sac\\Turtle\\Turtle-193108.onnx",
+                "reward": null,
+                "creation_time": 1746667549.0645232,
+                "auxillary_file_paths": [
+                    "results\\rover-long-sac\\Turtle\\Turtle-193108.pt"
+                ]
+            },
+            {
+                "steps": 213519,
+                "file_path": "results\\rover-long-sac\\Turtle\\Turtle-213519.onnx",
+                "reward": null,
+                "creation_time": 1746667994.4504426,
+                "auxillary_file_paths": [
+                    "results\\rover-long-sac\\Turtle\\Turtle-213519.pt"
+                ]
+            },
+            {
+                "steps": 218553,
+                "file_path": "results\\rover-long-sac\\Turtle\\Turtle-218553.onnx",
+                "reward": null,
+                "creation_time": 1746668377.496462,
+                "auxillary_file_paths": [
+                    "results\\rover-long-sac\\Turtle\\Turtle-218553.pt"
+                ]
+            },
+            {
+                "steps": 233291,
+                "file_path": "results\\rover-long-sac\\Turtle\\Turtle-233291.onnx",
+                "reward": null,
+                "creation_time": 1746668815.3425913,
+                "auxillary_file_paths": [
+                    "results\\rover-long-sac\\Turtle\\Turtle-233291.pt"
+                ]
+            },
+            {
+                "steps": 251984,
+                "file_path": "results\\rover-long-sac\\Turtle\\Turtle-251984.onnx",
+                "reward": null,
+                "creation_time": 1746669365.3248317,
+                "auxillary_file_paths": [
+                    "results\\rover-long-sac\\Turtle\\Turtle-251984.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 251984,
+            "file_path": "results\\rover-long-sac\\Turtle.onnx",
+            "reward": null,
+            "creation_time": 1746669365.3248317,
+            "auxillary_file_paths": [
+                "results\\rover-long-sac\\Turtle\\Turtle-251984.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
